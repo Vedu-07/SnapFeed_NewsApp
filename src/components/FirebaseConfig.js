@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyA4xz97_K_KM7hQtT-wapnfFPpbCgYSqhE",
+  apiKey: [Users API Key],
   authDomain: "snapfeed-a36f8.firebaseapp.com",
   projectId: "snapfeed-a36f8",
   storageBucket: "snapfeed-a36f8.appspot.com",
