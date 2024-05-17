@@ -1,3 +1,25 @@
+# News App
+
+On My Quest To LEarn react I Created This Amazing News App.
+This News App Fetches Real Time News From News API And Displays it. 
+
+# Key Features
+
+Real Time News Fetching
+Infinite Scroll Implementation
+News From Variety Of Categories
+
+# Images
+
+Homepage:
+
+![Screenshot 2024-04-15 195042](https://github.com/Vedu-07/SnapFeed_NewsApp/assets/157512470/eee772f8-2f8f-4324-bc6f-86a82481df74)
+
+Main UI Where News Is Fetched
+
+![Screenshot 2024-04-15 195128](https://github.com/Vedu-07/SnapFeed_NewsApp/assets/157512470/926d126d-8859-4b12-8968-fbfed1c0f6a1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +90,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+If You Encounter Any Error Feel Free To Make Pull Requests For The Same :)
